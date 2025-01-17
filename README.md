@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>10 ML Projects for Resume by Study Mart & aiQuest Intelligence</title>
+  <title>10 ML Projects</title>
 </head>
 <body>
-  <h1>10 ML Projects for Resume by Study Mart & aiQuest Intelligence</h1>
-  <p>Welcome to the <strong>10 ML Projects for Resume</strong> repository! This repository contains ten machine learning projects that are perfect for showcasing your skills on your resume. These projects have been curated by Study Mart and aiQuest Intelligence.</p>
+ 
+  <p>Welcome to the <strong>10 ML Projects for Resume</strong> repository! This repository contains ten machine learning projects.</p>
 
   <h2>Projects Topics Included</h2>
   <ul>
