@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>10 ML Projects</title>
+  <title>10 ML Projects.</title>
 </head>
 <body>
  
